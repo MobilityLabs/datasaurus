@@ -29,7 +29,7 @@
     "debug": "~4.1.1",
     "dotenv": "^8.0.0",
     "eslint-plugin-react-app": "^5.0.1",
-    "express": "~4.17.1",
+    "express": "~4.17.3",
     "fstream": "^1.0.12",
     "immutability-helper": "^3.0.1",
     "knex": "^0.18.0",
